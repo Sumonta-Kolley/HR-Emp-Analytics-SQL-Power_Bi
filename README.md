@@ -251,6 +251,6 @@ employee-performance-hr-analytics/
 
 ## Author
 
-**Tandrima**
+**Sumonta Kolley**
 
 Feedback and suggestions are welcome while the project is in progress.
